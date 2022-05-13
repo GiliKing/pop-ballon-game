@@ -6,6 +6,9 @@ console.log(ok);
 
 tracker = [];
 
+
+// testing to push 
+
 for(let i = 0; i < ok; i++) {
 
     spanOnly = document.getElementsByClassName("span1")[i];
